@@ -1,0 +1,41 @@
+{
+    "Common": {
+        "Sign in": "Sign in",
+        "Sign up": "Sign up",
+        "Exchange name": "Example",
+        "EN": "EN",
+        "RU": "RU",
+        "UA": "UA",
+        "Choose currency": "Choose currency for exchange",
+        "Exchange amount": "Indicate the amount of exchange",
+        "Requisites": "Fill in your requisites",
+        "Give currency": "Give currency",
+        "Take currency": "Take currency",
+        "Main": "Exchange",
+        "Contacts": "Contacts",
+        "Agreements": "Agreements"
+    },
+    "SignIn": {
+        "Password": "Password",
+        "Remember me": "Remember me",
+        "Forgot password": "Forgot password?",
+        "Don't have an account": "Don't have an account?"
+    },
+    "SignUp": {
+        "First Name": "First Name",
+        "Last Name": "Last Name",
+        "Password": "Password",
+        "Accept email updates": "I want to receive inspiration, marketing promotions and updates via email",
+        "Have account": "Already have an account?"
+    },
+    "BaseFields": {
+        "Email Address": "Email address",
+        "Account number": "Account number"
+    },
+    "Buttons": {
+        "Next": "Next",
+        "Exchange": "Exchange",
+        "Back": "Back",
+        "Clear": "Clear"
+    }
+}

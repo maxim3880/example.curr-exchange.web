@@ -1,0 +1,41 @@
+{
+    "Common": {
+        "Sign in": "Вхiд",
+        "Sign up": "Створити акаунт",
+        "Exchange name": "Example",
+        "EN": "EN",
+        "RU": "RU",
+        "UA": "UA",
+        "Choose currency": "Виберіть валюти для обміну",
+        "Exchange amount": "Вкажіть суму обміну",
+        "Requisites": "Заповніть свої реквізити",
+        "Give currency": "Віддаєте",
+        "Take currency": "Отримуєте",
+        "Main": "Обмін",
+        "Contacts": "Контакти",
+        "Agreements": "Угода"
+    },
+    "SignIn": {
+        "Password": "Пароль",
+        "Remember me": "Запам'ятати мене",
+        "Forgot password": "Забули пароль?",
+        "Don't have an account": "У мене немає облікового запису?"
+    },
+    "SignUp": {
+        "First Name": "Ім'я",
+        "Last Name": "Прізвище",
+        "Password": "Пароль",
+        "Accept email updates": " Реєструючись, Ви підтверджуєте свою згоду на обробку персональних даних",
+        "Have account": "Вже є аккаунт?"
+    },
+    "BaseFields": {
+        "Email Address": "Email адреса",
+        "Account number": "Номер рахунку"
+    },
+    "Buttons": {
+        "Next": "Далі",
+        "Exchange": "Обміняти",
+        "Back": "Назад",
+        "Clear": "Очистити"
+    }
+}
